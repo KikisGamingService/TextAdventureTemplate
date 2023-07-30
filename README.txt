@@ -11,7 +11,7 @@ This is a template to create your own short text adventure that can be extended 
 
 - Required Software:
 Current Python installation to run the main file. This was created and tested with Python 3.10.
-A text editor to edit any Python files. Data files for a PyCharm project are included.
+A text editor to edit any Python files. Data files for a PyCharm project are included. If PyCharm project files are needed, make sure to extract both the venv and the .idea folders.
 
 - Main files:
 TextBasedGame.py is the main Python file. Edit the text in here to create your own stories, rooms, and more.
